@@ -36,4 +36,9 @@ I'm a Cloud Engineer with a strong foundation in AWS and a growing skill set in 
   <a href="mailto:tjackson3457@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  
+  <a href="https://medium.com/@tjackson3457" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+
 </p>
