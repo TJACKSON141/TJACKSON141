@@ -24,6 +24,7 @@ I'm a Cloud Engineer with a strong foundation in AWS and a growing skill set in 
 
 - ✅ AWS Certified Cloud Practitioner (AWS CCP)
 - 🔄 AWS Certified Solutions Architect Associate (AWS SAA) (In Progress)
+- 🔄 HashiCorp Certified Terraform Associate (In Progress)
 - 🔄 AWS Certified Security Specialty (AWS SCS) (In Progress)
 
 ### 📫 Connect with me:
