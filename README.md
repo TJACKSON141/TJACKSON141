@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Tariq
 
-I'm a Cloud Engineer with a strong foundation in AWS and a growing skill set in infrastructure automation, CI/CD pipelines, and containerisation. Join me on my journey to mastering the Cloud!
+I'm a Cloud Engineer with a strong foundation in Azure and a growing skill set in infrastructure automation, CI/CD pipelines, and containerisation.
 
 ### 🚀 About Me:
 
 - 🎓 BSc Computer Science
-- ☁️ AWS Certified (CCP | SAA [In Progress] | Security Specialty [In Progress])
-- 🛠️ Terraform | Kubernetes | GitHub Actions
-- 🧠 Always learning — Cloud Security & AI Enthusiast
+- ☁️ AWS & Azure Certified (AWS CCP | AZ-900 | AZ-104 [In Progress] | HashiCorp Certified Terraform Associate [In Progress])
+- 🛠️ Python | Terraform | Kubernetes | Docker | GitHub Actions
 
 ### 💻 Tech Stack:
 
@@ -23,9 +22,10 @@ I'm a Cloud Engineer with a strong foundation in AWS and a growing skill set in 
 ### 🏆 Certifications:
 
 - ✅ AWS Certified Cloud Practitioner (AWS CCP)
-- 🔄 AWS Certified Solutions Architect Associate (AWS SAA) (In Progress)
+- ✅ Microsoft Azure Fundamentals (AZ-900)
+- 🔄 Microsoft Azure Administrator (AZ-104)
 - 🔄 HashiCorp Certified Terraform Associate (In Progress)
-- 🔄 AWS Certified Security Specialty (AWS SCS) (In Progress)
+  
 
 ### 📫 Connect with me:
 
